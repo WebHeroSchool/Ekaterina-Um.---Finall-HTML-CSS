@@ -17,6 +17,8 @@ body{
   	width: 489px;
   	margin-left: 32.4%;
 }
+
+
 .menu__right{
   	display: flex;
   	justify-content: space-between;
