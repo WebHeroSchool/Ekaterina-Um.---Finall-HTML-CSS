@@ -3,6 +3,7 @@ body{
 	/*background: no-repeat url(img/whs.png);
 	background-position: bottom 12px right 18px;*/
 }
+
 .menu{
   	display: flex;
   	flex-direction: row;
